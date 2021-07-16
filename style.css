@@ -155,6 +155,10 @@ li {
     display: block;
     text-align: center;
   }
+
+  .summary p {
+    margin: 0 50px;
+  }
 }
 
 @media only screen and (max-width: 320px) {
